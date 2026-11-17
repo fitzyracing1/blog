@@ -1,0 +1,29 @@
+title: Joshua Almeida
+description: >-
+  Notes from building tools that keep AI work honest, inspectable, and continuable.
+url: https://fitzyracing1.blog
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: Joshua Almeida
+
+# Minima 2.5 (GitHub Pages) social links
+github_username: fitzyracing1
+twitter_username: fitzyracing1
+
+# Minima 3 social links; ignored if the theme is 2.5
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/fitzyracing1" }
+    - { platform: x, user_url: "https://x.com/fitzyracing1" }
+
+# Personal site, also linked from the home and about pages:
+# https://fitzyracing1.com
+
+header_pages:
+  - about.md
